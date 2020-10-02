@@ -1,2 +1,2 @@
 # mysql
-CRUD
+Simple CRUD'ing on a LAMP stack.
